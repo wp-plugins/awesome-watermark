@@ -14,7 +14,7 @@ Apply text or image watermark to any WordPress image and thumbnails sizes.
 
 Awesome Watermark is a WordPress plugin that allows you to protect your images by adding text/image watermark on them. You can add different watermarks to different image sizes.
 
-Features:
+==Features==
 
 * Separate watermark for every image size
 * Supports both Text & Image watermark
